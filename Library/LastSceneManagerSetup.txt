@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "Assets/Dise\xF1o/Scenes/3Juego.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
