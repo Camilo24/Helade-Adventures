@@ -2601,6 +2601,7 @@ GameObject:
   - component: {fileID: 4416926083347132230}
   - component: {fileID: 4416926083347132231}
   - component: {fileID: 4416926083347132235}
+  - component: {fileID: 4416926083347132236}
   m_Layer: 8
   m_Name: PlayerArmature
   m_TagString: Player
@@ -2732,6 +2733,35 @@ MonoBehaviour:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
+--- !u!114 &4416926083347132236
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4416926083347132227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c099875df62532c47898bf0f1c1e254d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  acceleration: 30
+  airSpeed: 5
+  rotationSpeed: 0.1
+  crouchSpeed: 6
+  slidingSpeed: 15
+  jumpForce: 10
+  additionalGravityForce: 20
+  maxJumps: 2
+  maxDownVelocity: -20
+  physicArmour: 2
+  magicArmour: 1
+  toxicArmour: 0.5
+  health: 100
+  invincibilityTime: 2
+  headDamageMultiplier: 2
+  bodyDamageMultiplier: 1
 --- !u!114 &4416926083347132239
 MonoBehaviour:
   m_ObjectHideFlags: 0
