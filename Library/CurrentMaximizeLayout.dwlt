@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 675
-  m_MinSize: {x: 679, y: 492}
-  m_MaxSize: {x: 14002, y: 14042}
+  m_MinSize: {x: 679, y: 471}
+  m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 65487
+  controlID: 5461
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,10 +136,10 @@ MonoBehaviour:
     y: 0
     width: 1043
     height: 675
-  m_MinSize: {x: 403, y: 492}
-  m_MaxSize: {x: 10001, y: 14042}
+  m_MinSize: {x: 403, y: 471}
+  m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 65488
+  controlID: 5462
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 65489
+  controlID: 5429
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -222,21 +222,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 30e6f8ff10e7f8ff5aecf8ff9680f9ff9483f9ffcae3f9ff1858faff4cb4faff10b8faffc01afbffa424fbff8490fbff1095fbffbc04fcffb207fcff5269fcffd06dfcff7e9ffdffb8a2fdffc4a2fdffe4a2fdffecc5fdff6821fefff227feff482efeffd22ffeffc631feffd834feff8a37feff683dfeffd45ffeffb20affff42fbffff
+      m_ExpandedIDs: 6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: "Poci\uFFFD\uFFFDn"
+        m_OriginalName: "Poci\uFFFD\uFFFDn"
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -9590
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -310,9 +310,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -48.635082, y: 3.2010903, z: 28.040741}
+    m_Target: {x: -49.92, y: 2.25, z: 23.390003}
     speed: 2
-    m_Value: {x: -48.635082, y: 3.2010903, z: 28.040741}
+    m_Value: {x: -49.92, y: 2.25, z: 23.390003}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -359,13 +359,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.12845291, y: -0.72412586, z: 0.14031287, w: 0.662915}
+    m_Target: {x: 0.044460095, y: -0.9136705, z: 0.10405425, w: 0.39038908}
     speed: 2
-    m_Value: {x: 0.12845276, y: -0.724125, z: 0.1403127, w: 0.6629142}
+    m_Value: {x: 0.044460062, y: -0.9136698, z: 0.104054175, w: 0.39038882}
   m_Size:
-    m_Target: 0.8273098
+    m_Target: 5.1635003
     speed: 2
-    m_Value: 0.8273098
+    m_Value: 5.1635003
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -409,8 +409,8 @@ MonoBehaviour:
     y: 400
     width: 1043
     height: 275
-  m_MinSize: {x: 231, y: 271}
-  m_MaxSize: {x: 10001, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 10}
@@ -455,7 +455,7 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
-    m_SearchArea: 0
+    m_SearchArea: 1
     m_Folders:
     - Assets
     m_Globs: []
@@ -470,9 +470,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a2590000
-    m_LastClickedID: 22946
-    m_ExpandedIDs: 000000006c5900006e590000705900007259000074590000765900007a790000809f000000ca9a3b
+    m_SelectedIDs: 6a650000
+    m_LastClickedID: 25962
+    m_ExpandedIDs: 00000000586500005a6500005c6500005e6500006065000062650000646500006665000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -500,7 +500,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006c5900006e590000705900007259000074590000765900007a790000809f000000ca9a3b
+    m_ExpandedIDs: 00000000586500005a6500005c6500005e6500006065000062650000646500006665000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

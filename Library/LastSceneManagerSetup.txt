@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Dise\xF1o/Propios/Scenes/Juego.unity"
+- path: "Assets/Dise\xF1o/Scenes/Juego.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
