@@ -1,0 +1,18 @@
+Créditos
+
+
+Diseño
+
+Agua del Escenario: Lowpoly-Water-Unity de danielzeller, GitHub
+Villa: Modular Village Pack de fertile Soil Productions, Itch.io
+Bosque: Low Poly Forest Pack de Jaks, Itch.Io
+Ambiente: Modular Terrain Pack de Fertile Soil Productions, Itch.Io
+
+
+Programación
+
+Controles Básicos del Personaje: 3rd Person Controller + Fly Mode de VINICIUS MARQUES, Unity Asset Store
+IA del Enemigo: AI Behavior de WALKER BOYS STUDIO, Unity Asset Store
+
+
+Música
