@@ -12,6 +12,7 @@ public class VidaPlayer : MonoBehaviour
     public GameObject S;
     public float Puntaje;
     public Text Derrotados;
+    public GameObject Enemigo;
     // Start is called before the first frame update
     void Start()
     {
@@ -63,6 +64,11 @@ public class VidaPlayer : MonoBehaviour
         if (Vida <= 0)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
+
+        if (Puntaje == 100)
+        {
+            Destroy(Enemigo);
         }
     }
 
