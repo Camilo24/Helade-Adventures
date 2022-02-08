@@ -9,6 +9,10 @@ Bosque: Low Poly Forest Pack de Jaks, Itch.Io
 Ambiente: Modular Terrain Pack de Fertile Soil Productions, Itch.Io
 Templo: Modular Temple Pack de Fertile Soil Productions, Itch.Io
 Puntaje: Icon made by Freepik from www.flaticon.com
+Blacksmit: Blacksmit (Stylized) de Bitcraft, Unity Asset Store
+Domo: Roman Domus de Bisoncraft, Unity Asset Store
+Casas: Polysed - Medieval Desert city de Ink Phantom, Unity Asset Store
+Templo: "Roman Temple" (https://skfb.ly/6YPtz) by RobbinH is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 Tienda: "Stylized Tent" (https://skfb.ly/6YSvM) by csabat3D is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 
