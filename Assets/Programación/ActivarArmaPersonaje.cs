@@ -6,6 +6,7 @@ public class ActivarArmaPersonaje : MonoBehaviour
 {
     public CogerArmas cogerArmas;
     public int numeroArma;
+    public AudioSource CogerArma;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +23,7 @@ public class ActivarArmaPersonaje : MonoBehaviour
     {
         if (other.tag == "Player")
         {
+            CogerArma.Play();
             cogerArmas.ActivarArmar(numeroArma);
             Destroy(gameObject);
         }

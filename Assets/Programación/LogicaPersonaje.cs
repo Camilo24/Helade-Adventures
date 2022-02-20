@@ -6,6 +6,7 @@ public class LogicaPersonaje : MonoBehaviour
 {
     public bool conArma;
     public Animator anim;
+    public AudioSource Espadazo;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,6 +20,7 @@ public class LogicaPersonaje : MonoBehaviour
         {
             if (conArma)
             {
+                Espadazo.Play();
                 anim.SetTrigger("GolpeoEspada");
             }
         }

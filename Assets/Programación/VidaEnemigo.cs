@@ -8,6 +8,7 @@ public class VidaEnemigo : MonoBehaviour
     public float Vida;
     public GameObject Enemigo;
     public VidaPlayer VidaPlayer;
+    public AudioSource Golpeado;
     // Start is called before the first frame update
     void Start()
     {
@@ -36,6 +37,7 @@ public class VidaEnemigo : MonoBehaviour
     {
         if (other.tag == "Arma")
         {
+            Golpeado.Play();
             Vida -= 25;
         }
     }

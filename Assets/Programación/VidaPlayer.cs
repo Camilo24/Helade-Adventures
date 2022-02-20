@@ -13,6 +13,8 @@ public class VidaPlayer : MonoBehaviour
     public float Puntaje;
     public Text Derrotados;
     public GameObject Enemigo;
+    public AudioSource Golpeado;
+    public AudioSource Cura;
     // Start is called before the first frame update
     void Start()
     {
@@ -76,11 +78,13 @@ public class VidaPlayer : MonoBehaviour
     {
         if (other.tag == "ArmaEnemiga")
         {
+            Golpeado.Play();
             Vida -= 25;
         }
 
         if (other.tag == "Cura")
         {
+            Cura.Play();
             Vida += 50;
         }
     }
